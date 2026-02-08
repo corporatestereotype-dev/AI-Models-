@@ -1,0 +1,24 @@
+There models are availble to the codespace applications
+ollama run qwen3-coder:480b-cloud
+ollama run gpt-oss:120b-cloud
+ollama run gemma3:27b-cloud
+ollama run kimi-k2:1t-cloud
+ollama run kimi-k2-thinking:cloud
+ollama run minimax-m2.1:cloud'
+ollama run deepseek-v3.2:cloud
+ollama run glm-4.6:cloud
+ollama run cogito-2.1:671b-cloud
+ollama run glm-4.7:cloud
+ollama run gemini-3-flash-preview:cloud
+ollama run devstral-2:123b-cloud
+ollama run gemini-3-pro-preview
+ollama run deepseek-v3.1:671b-cloud
+ollama run devstral-small-2:24b-cloud
+ollama run nemotron-3-nano:30b-cloud
+ollama run qwen3-next:80b-cloud
+ollama run rnj-1:8b-cloud
+ollama run ministral-3:14b-cloud
+ollama run qwen3-vl:235b-cloud
+ollama run qwen3-vl:235b-instruct-cloud
+ollama run kimi-k2.5:cloud
+ollama run qwen3-coder-next:cloud
